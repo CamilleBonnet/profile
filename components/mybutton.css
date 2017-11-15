@@ -1,0 +1,28 @@
+#container-button {
+  border-radius: 10px;
+  width: 200px;
+  height: 50px;
+  margin: auto;
+  background-color: #A40;
+  border: 2px solid #A90
+}
+
+#container-button:hover {
+  background-color: #A90;
+  border: 2px solid #A40
+}
+
+#button-personal-page {
+  padding: 10px;
+  /*margin: auto;*/
+}
+
+#container-button > a {
+  color: #A90;
+}
+
+#container-button > a:hover{
+  color: #A40;
+}
+
+

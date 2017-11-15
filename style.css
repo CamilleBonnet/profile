@@ -1,0 +1,10 @@
+/* Import of the Google Font */
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Montserrat:400,700");
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+/* Import of all the CSS needed */
+@import url("./components/common.css");
+@import url("./components/card.css");
+@import url("./components/image.css");
+@import url("./components/table.css");
+@import url("./components/mybutton.css");

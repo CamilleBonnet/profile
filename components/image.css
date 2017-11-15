@@ -1,4 +1,4 @@
-.profile_picture{
+.img-profile{
   width: 250px;
   border-radius: 100%;
   border: 2px solid #000;
@@ -8,3 +8,16 @@
 .image_table {
   width: 300px;
 }
+
+.img-sidebar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(175,175,175);
+    box-shadow: 8px 8px 10px #999;
+
+}
+
